@@ -1,1 +1,1 @@
-# Restaurant-Page
+Create a restaurant page using HTML, JavaScript and CSS with the help of Webpack.
