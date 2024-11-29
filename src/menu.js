@@ -19,15 +19,15 @@ const menu = () => {
     dish_5.classList.add('dish')
 
     const img_1 = document.createElement('img')
-    img_1.src = "/Users/mhamed/TOP/repos/Restaurant-Page/img/Behind-Guinea Fowl.jpeg"
+    img_1.src = "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2021/02/26/66e0b404a4f74b318f2005252a8b7fac_Behind+Guinea+fowl.jpg"
     const img_2 = document.createElement('img')
-    img_2.src = "/Users/mhamed/TOP/repos/Restaurant-Page/img/Benares - Baked Malabar Scallop.jpg"
+    img_2.src = "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2021/02/26/cb402be4a5ba4e609c7181afacce5f60_Benares+Scallop+off+Uploader.jpg"
     const img_3 = document.createElement('img')
-    img_3.src = "/Users/mhamed/TOP/repos/Restaurant-Page/img/Cail Bruich - West coast crab, raw Orkney scallop, Exmoor caviar .jpg"
+    img_3.src = "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2021/02/26/a21fbd8e129846b594d150b02eab85fa_Cail+Bruich+Crab%2C+scallop.jpg"
     const img_4 = document.createElement('img')
-    img_4.src = "/Users/mhamed/TOP/repos/Restaurant-Page/img/Cornerstone - Hake Kiev.jpg"
+    img_4.src = "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2021/02/26/c32ea43661174f75a88731f358946682_Cornerstone+Hake+-+off+Uploader.jpg"
     const img_5 = document.createElement('img')
-    img_5.src = "/Users/mhamed/TOP/repos/Restaurant-Page/img/Davies and Brook - Venison.jpg"
+    img_5.src = "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2021/02/26/f5ca3f4cdd0b4baeb44b89efe60a1f37_Davies+and+Brook+-+Main+dish.jpg"
 
     const title_1 = document.createElement('p')
     title_1.textContent = "Behind - Guinea Fowl"
